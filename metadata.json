@@ -1,0 +1,6 @@
+{
+  "name": "Random Number Generator",
+  "description": "A beautiful, premium, all-in-one randomizer featuring number generators, interactive dice rollers, coin flippers, and list picker wheels with smooth physics and animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
